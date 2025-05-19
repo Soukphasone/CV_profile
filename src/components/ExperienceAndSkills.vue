@@ -88,6 +88,11 @@ const Skills = ref([
   {
     id: 4,
     name: "Php",
+    width: "75%",
+  },
+  {
+    id: 5,
+    name: "Flutter",
     width: "70%",
   },
 ]);

@@ -10,7 +10,7 @@ export const en = {
   skills: "skills",
   contact: "Let's Connect",
   introduce:
-    "Hello, my name is Mr. DOUANGPANYA SOUKPHASONE. I'm 24 years old, develop various programs, website-applications. Currently working at the Lao - Viet Bank at the head office in Vientiane.",
+    "Hello, i am Mr. Douangpanya Soukphasone. I am 24 years old and develop various programs and web applications. I am currently working at Lao-Viet Bank, Head Office, in Vientiane.",
   experiences: "My Experiences ",
   email: "Email",
   phone: "Phone",

@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vueuse/core": "^13.2.0",
     "aos": "^2.3.4",
     "vue": "^3.4.37",
     "vue-i18n": "^10.0.4",
