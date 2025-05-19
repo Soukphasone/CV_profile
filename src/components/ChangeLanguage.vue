@@ -79,11 +79,11 @@ const getImagePath = (img) => {
         <li v-for="option in options" :key="option.value" @click="selectOption(option.value)">
           <img :src="getImagePath(option.img)" alt="flag" class="flag-icon-change-language" />
 
-          <span style="margin-top: -3px"> {{ option.lg }}</span>
+          <span style="margin-top: -8px"> {{ option.lg }}</span>
         </li>
       </ul>
     </div>
-    <div class="flex items-center text-gray-700 dark:text-white text-lg">{{ $t('lg') }}</div>
+    <div class="flex items-center text-white text-lg">{{ $t('lg') }}</div>
   </div>
 </template>
 
