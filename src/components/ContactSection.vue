@@ -105,7 +105,6 @@
               id="subject"
               class="bg-[#111827] placeholder:[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5"
               :placeholder="$t('subject')"
-              name="subject"
             />
           </div>
           <div class="mb-6">
@@ -118,7 +117,6 @@
               id="Message"
               class="bg-[#111827] placeholder:[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5"
               :placeholder="$t('detail') + '...'"
-              name="Message"
             ></textarea>
           </div>
           <button

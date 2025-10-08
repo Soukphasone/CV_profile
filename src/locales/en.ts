@@ -1,6 +1,10 @@
 export const en = {
   languages: "Language",
   lg: "EN",
+  englisg: 'English',
+  en: 'English',
+  la: 'Lao',
+  vn: 'Vietnamese',
   hello: "Hello, i'm",
   education: " My Education",
   more: "More",

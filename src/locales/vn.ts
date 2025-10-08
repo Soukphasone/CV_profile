@@ -1,6 +1,9 @@
 export const vn = {
   languages: "Ngôn ngữ",
-  lg:"VN",
+  lg: "VN",
+  en: 'Tiếng Anh',
+  la: 'Tiếng Lào',
+  vn: 'Tiếng Việt',
   hello: " Xin chào tôi là",
   education: "Việc giáo dục",
   more: "Giới thiệu",
@@ -18,5 +21,5 @@ export const vn = {
   detail: "Chi tiết",
   send: "Gửi",
   my: "",
-  email_ex:"Ví dụ email@gmail.com"
+  email_ex: "Ví dụ email@gmail.com"
 };
